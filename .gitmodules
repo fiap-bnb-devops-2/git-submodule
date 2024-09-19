@@ -1,6 +1,0 @@
-[submodule "bootstrap"]
-	path = bootstrap
-	url = https://github.com/twbs/bootstrap.git
-[submodule "bnb-utils"]
-	path = bnb-utils
-	url = git@github.com:fiap-bnb-devops-2/bnb-utils.git
